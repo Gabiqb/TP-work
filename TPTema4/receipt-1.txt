@@ -1,0 +1,27 @@
+Order id: 1
+Total: 212 lei
+Date: 2021-05-28/18:13 
+Produs: Red and Green Tomato Salsa 
+Rating: 3.13
+Calories: 25
+Protein: 1
+Fat: 0
+Carbs: 552
+Price: 38 lei
+Cantitate: 3 
+
+Produs: Ethiopian Spice Tea 
+Rating: 5.0
+Calories: 23
+Protein: 1
+Fat: 0
+Carbs: 13
+Price: 49 lei
+Cantitate: 2 
+
+
+Estimated delivery time: 18:43-19:13
+Detalii: 
+Nume client: asdfafd asdf3
+Numar telefon: 0787696322
+----------------------------------------------------

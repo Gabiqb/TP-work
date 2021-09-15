@@ -1,0 +1,27 @@
+Order id: 4
+Total: 144 lei
+Date: 2021-05-28/18:48 
+Produs: The Original Three-Ingredient Rub 
+Rating: 0.0
+Calories: 23
+Protein: 1
+Fat: 1
+Carbs: 6
+Price: 47 lei
+Cantitate: 2 
+
+Produs: "Endive ""Spoons"" with Lemon-Herb Goat Cheese "
+Rating: 4.38
+Calories: 24
+Protein: 1
+Fat: 2
+Carbs: 35
+Price: 50 lei
+Cantitate: 1 
+
+
+Estimated delivery time: 19:18-19:48
+Detalii: fara castraveti
+Nume client: asdfafd asdf3
+Numar telefon: 0787696322
+----------------------------------------------------

@@ -1,0 +1,18 @@
+Order id: 9
+Total: 76 lei
+Date: Wed May 26 12:19:55 EEST 2021 
+Produs: Red and Green Tomato Salsa 
+Rating: 3.13
+Calories: 25
+Protein: 1
+Fat: 0
+Carbs: 552
+Price: 38 lei
+Cantitate: 2 
+
+
+Estimated delivery time: 12:49-13:19
+Detalii: 
+Nume client: asdf asdf
+Numar telefon: 0787696322
+----------------------------------------------------

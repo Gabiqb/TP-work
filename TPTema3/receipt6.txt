@@ -1,0 +1,6 @@
+Order 6
+Nume client:gasdg
+Prenume client:asdfasfd
+Nume agent:asdf
+Prenume agent:asdfas
+Data eliberare:Fri May 14 18:07:38 EEST 2021
